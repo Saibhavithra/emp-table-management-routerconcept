@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.32f460ab.css",
-    "main.js": "/static/js/main.25badf3a.js",
-    "static/js/787.b94ef3c2.chunk.js": "/static/js/787.b94ef3c2.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.32f460ab.css.map": "/static/css/main.32f460ab.css.map",
-    "main.25badf3a.js.map": "/static/js/main.25badf3a.js.map",
-    "787.b94ef3c2.chunk.js.map": "/static/js/787.b94ef3c2.chunk.js.map"
+    "main.css": "/emp-table-management-routerconcept/static/css/main.32f460ab.css",
+    "main.js": "/emp-table-management-routerconcept/static/js/main.11024481.js",
+    "static/js/787.38f16daf.chunk.js": "/emp-table-management-routerconcept/static/js/787.38f16daf.chunk.js",
+    "static/media/logo.svg": "/emp-table-management-routerconcept/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emp-table-management-routerconcept/index.html",
+    "main.32f460ab.css.map": "/emp-table-management-routerconcept/static/css/main.32f460ab.css.map",
+    "main.11024481.js.map": "/emp-table-management-routerconcept/static/js/main.11024481.js.map",
+    "787.38f16daf.chunk.js.map": "/emp-table-management-routerconcept/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32f460ab.css",
-    "static/js/main.25badf3a.js"
+    "static/js/main.11024481.js"
   ]
 }
