@@ -39,7 +39,7 @@ function EmpDetails(props) {
                 return emp.name.includes(searchVal)
             }))
         }
-        navigate('/')
+        navigate('/emp-table-management-routerconcept')
     }
 
     function containsNumber(str){
