@@ -19,7 +19,7 @@ function EmpEdit(props) {
         let emp = Employees[index]
         emp.name = name
         emp.age = age
-        navigate('/')
+        navigate('/emp-table-management-routerconcept')
     }
 
     useEffect(()=>{

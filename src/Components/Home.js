@@ -9,11 +9,9 @@ function Home(props) {
         <div>
             <BrowserRouter>
                 <Routes>
-                    <Route path = '/' element={<EmpDetails/>}/>
+                    <Route path = '/emp-table-management-routerconcept' element={<EmpDetails/>}/>
                      <Route path = '/create' element={<AddEmp/>}/>
-                     
-                   
-                      <Route path = '/edit' element={<EditEmp/>}/>   
+                    <Route path = '/edit' element={<EditEmp/>}/>   
                 </Routes>
 
             </BrowserRouter>

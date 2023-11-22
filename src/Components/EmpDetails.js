@@ -23,7 +23,7 @@ function EmpDetails(props) {
     const handleDelete = (id => {
         var index = Employees.findIndex(element=>element.id == id)
         Employees.splice(index, 1)
-        navigate('/')
+        navigate('/emp-table-management-routerconcept')
     })
     function handleSearch(e){
         e.preventDefault();
